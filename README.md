@@ -8,6 +8,8 @@
 
 **[randoruf/mit-deep-learning: Tutorials, assignments, and competitions for MIT Deep Learning related courses. (github.com)](https://github.com/randoruf/mit-deep-learning)**
 
+[MIT Deep Learning and Artificial Intelligence Lectures | Lex Fridman](https://deeplearning.mit.edu/)
+
 
 
 **Lecture Videos**: 
